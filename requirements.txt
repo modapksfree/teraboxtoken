@@ -1,0 +1,13 @@
+tgcrypto
+uvloop
+requests
+aiohttp
+aiofiles
+aria2p
+pytz
+python-dotenv
+gunicorn
+gevent
+flask
+shortzy
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
