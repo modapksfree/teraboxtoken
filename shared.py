@@ -3,8 +3,8 @@ from datetime import date
 from shortzy import Shortzy
 
 # shared.py
-API = "22643ceb45631e778bb48f9a8a96f350f519a82e"
-URL = "urlshortx.com"
+API = "2107870e8e8b88843eb1e6f61ff9ff39d9277d2f"
+URL = "inshorturl.com"
 TOKENS = {}
 VERIFIED = {}
 async def get_verify_shorted_link(link):
